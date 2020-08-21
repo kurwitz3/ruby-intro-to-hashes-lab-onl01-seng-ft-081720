@@ -8,7 +8,7 @@ rock
 end
 
 def monopoly
-	monopoly = { :railroad  {}
+	monopoly = { :railroad => {}
 	
 	  
 	}
